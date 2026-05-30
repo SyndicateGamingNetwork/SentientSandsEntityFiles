@@ -1,0 +1,9 @@
+Category = world_lore
+Name = Crab_Care
+Id = crab_care
+display_name = Crab Care
+era = present
+weight = 5
+
+$surface = So you wanna buy a crab, eh. Well, first up you gotta have a solid crab care routine, let me tell you all about it...
+$deeper = Now the crabs, see, they like fish, that's their favourite food. Otherwise they'll eat funghi, algae... you know, standard stuff. But you gotta make sure they eat five meals a day. And be warned, never feed them after sundown! NEVER!... It gives them indigestion. You've also gotta give them a ninety minute salt bath once a month so that they can molt no trouble. Now, they don't sleep well and they need affection, so make sure you sing 'em a song every night before bed, you gotta gurgle from the back of your throat, stroke his back legs too, he'll like that... And don't work 'em too hard. They don't like conflict... sensitive creatures they are, put too much stress on 'em and they'll get depressed. Nothin' sadder than a bummed out crab. ... So, are you ready to become one with the crabs?

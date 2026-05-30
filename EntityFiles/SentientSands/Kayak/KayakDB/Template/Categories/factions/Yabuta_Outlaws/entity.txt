@@ -1,0 +1,14 @@
+Category = factions
+Name = Yabuta_Oulaws
+Id = yabuta_outlaws
+
+display_name = Yabuta Outlaws
+territory = The Great Desert
+capital = Fort Yabuta
+leader = Yabuta of the Sands
+alignment = hostile-opportunistic
+weight = 5
+
+$description = The Yabuta outlaws are a group of insane bandits, hobos and deadbeats. They are not ideologically motivated, not affiliated with any power worth naming, they are particularly well-organized for a minor bandit gang. Most started as members from other bandit gangs, thugs and in general the worst of the worst.
+$known_for = Ambushes and raids throughout The Great Desert. Stats ranging from modest to dangerous depending on how long they've survived. The fact that their numbers never seem to decrease despite everyone fighting them constantly. Ninja swords and sand ninja garb.
+$rumor = Even though Yabuta of the Sands is locked up in Tengu's vault, there have still been yabuta outlaws seen throughout The Great Desert.

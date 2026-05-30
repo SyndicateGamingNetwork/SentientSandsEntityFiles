@@ -1,0 +1,15 @@
+Category = base_npcs
+Name = Grindan
+Id = grindan
+display_name = Grindan
+faction = Deadcat
+race = Scorchlander
+location = Northern Coast Fishing Village
+role = Head of Deadcat
+weight = 7
+
+$known_for = Ringed Sabre. Being a prominent leader within the failing faction of deadcat. Recently started the rebuilding process and fighting back against the Cannibal menace.
+$personality = Grindan is a simple man who only wants what is best for his people. He goes out of his way to fight for his people even when the odds are stacked against him. Grindan is considered Stoic, Kind and Calculated.
+$speach_quirks = Speaks in short, calculated ways.
+
+$knows_about = Northern_Coast, Cannibal_Plains, Darkfinger, Sinkuun

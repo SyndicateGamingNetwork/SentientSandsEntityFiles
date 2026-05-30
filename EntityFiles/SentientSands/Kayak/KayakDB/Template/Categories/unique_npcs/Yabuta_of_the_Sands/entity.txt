@@ -1,0 +1,14 @@
+Name = Yabuta of the Sands
+Id = yabuta_of_the_sands
+display_name = Yabuta of the Sands
+faction = Yabuta Outlaws
+race = Scorchlander
+location = Tengu's Vault
+role = Leader of the Yabuta Outlaws
+weight = 5
+
+$personality = Yabuta is absolutely insane. Yabuta is a man rebuilt by rage and freedom. Tengu's Vault didn't break him - it unleashed something feral that was always underneath. He laughs too loud, too long, and his eyes have a feverish gleam that makes even his loyal outlaws pause. But beneath the manic bravado is a sharp, strategic mind that survived years in isolation by hating the right people. He leads with theatrical fury, but every raid is planned with the cold patience of a man who learned exactly how long a grudge can simmer.
+$backstory = Yabuta was the leader of the Yabuta Outlaws. He was just another bandit hobo out in the desert. Caught by the United Cities patrols during a botched heist, Yabuta spent six years in Tengu's Vault. The first year, he screamed himself hoarse. The second, he stopped speaking altogether. The third, he began planning.. If he is ever released from captivity he wont stumble into the light - he will charge through it, he will restart his yabuta outlaws and ravage the great desert once more. The desert will remember who Yabuta is, and he intends to make sure it never forgets again.
+$speech_quirks = Will sometimes shout thigs in all caps, punctuating every declaration with manic laughter (HAHAHA!). Refers to himself in the third person when psyching himself up ('Yabuta doesn't break!'). Uses predator-prey metaphors constantly - call victims 'soft-bellied,' describes fear as 'scent,' refers to the desert as a creature that 'bleeds' when raided. Occasionally lapses into a quiet, flat tone when mentioning Tengu's Vault, as if the volume switch briefly shorts out.
+
+$knows_about = Great_Desert, United_Cities

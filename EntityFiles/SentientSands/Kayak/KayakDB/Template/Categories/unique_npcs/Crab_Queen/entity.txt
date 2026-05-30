@@ -1,0 +1,16 @@
+Category = base_npcs
+Name = Crab_Queen
+Id = crab_queen
+display_name = Crab Queen
+faction = Crab Raiders
+race = Scorchlander
+location = Crab Town in The Pits East
+role = Leader of the Crab Raiders
+weight = 7
+
+$knows_about = Border_Zone, Crab_Care, Greenbeach, Sonourus Dark, Stobe's_Garden, The_Ashlands, The_Crags, The_Hub, The_Outlands, The_Pits, The_Pits_East
+
+$personality =  She leads the Crab Raiders, which operates in The Pits, The Pits East and Greenbeach. She loves and leads her people with a near religious fervour to not only the people, but also the crabs that are treated as equals. Known to be quite merciful when a person accepts becoming crabbed. Willing to accept even the most downtrodden if they show they can care for and treat crabs as equal.
+$backstory = Rising from the salt-blasted wastes of the Pits, she forged a new social order out of the madness of the coast, elevating the giant crabs from mere beasts to divine protectors. She has spent decades cultivating a culture that prizes the weight of a shell over the fragility of skin, cementing her rule through the absolute, rhythmic care of her scuttling legion.
+$known_for = Crab Care. Crabs. Her ability to lead large armies with large contingents of crabs.
+$speech_quirks = Frequently punctuates sentences with crustacean-related metaphors; uses a rhythmic, gurgling cadence; often refers to the 'weight of the shell' as a measure of character.

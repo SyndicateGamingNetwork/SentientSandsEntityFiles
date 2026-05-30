@@ -1,0 +1,16 @@
+Category = factions
+Name = Crab_Raiders
+Id = crab_raiders
+
+display_name = Crab Raiders
+territory = Crab Town and Crab Village in the pits east
+capital = Crab Town
+leader = Crab Queen
+alignment = rebel-syncretic
+relations_hostile_to = Holy Nation, Skeleton Bandits, Skin Bandits, Reavers
+weight = 7
+
+$description = the Crab Raiders are a tight nit community of people who just really love crabs and treat them equally. They treat outsiders as victims that either join them and become crabbed, or stay crabless and must prove themselves worth of being crabbed.
+$culture = Most members are raised from the original humans from around the second empire. Many revere Crabs and treat them as equals.
+$known_for = Crab Care. Operating in The Pits and The Pits East. The constant low-grade war with the other factions in the pits that keeps them sharp. Crab based assaults and holding ground. Crab Queen's merciful yet just rule.
+$rumor = They say the Crab Raiders have great healthcare
